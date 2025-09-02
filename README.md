@@ -190,28 +190,7 @@
 
      
 </td>
-    <td>
-  
-## 📄📜 Stats
 
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tranquanghuy-09&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
- </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tranquanghuy-09"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranquanghuy-09&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
-</p>
-     <p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
-</p>
-<p align="center">
-<b> Thanks for visiting :heart: </b>
-<br>
-<img src="https://profile-counter.glitch.me/tranquanghuy-09/count.svg" />
-
-</p>
-  </td>
  </tr>
 </table>
 
