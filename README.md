@@ -14,13 +14,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-<p align="center">
-  <img src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" alt="DataGrip Logo" width="150"/>
-</p>
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
 
-<p align="center">
-  <b>Minha IDE principal para SQL: DataGrip (JetBrains)</b>
-</p>
 ---
 
 ### Controle de Versão:
